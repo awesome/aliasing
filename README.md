@@ -38,6 +38,7 @@ NB: be sure to use quotes for multi-word commands
 
 ### Todos (if this project actually had legs)
 
+- document code
 - write rspecs
 - write cucumber tests for CLI
 - more tools for alias management
